@@ -123,7 +123,7 @@ cat /etc/passwd | grep guest
 
 root: drwxr-xr-x,
 
-evdvorkina и guest: drwx------ (рис. 7).
+ednichiporova и guest: drwx------ (рис. 7).
 
 ![Просмотр содержимого директории](image/7.jpg){#fig:007 width=70%}
 
